@@ -1,0 +1,1 @@
+C:\Users\hardc\OneDrive\Desktop\Perm\ Pub\pubcast_renderer_workspace\target\release\libpubcast_renderer.rlib: C:\Users\hardc\OneDrive\Desktop\Perm\ Pub\pubcast_renderer_workspace\src\lib.rs C:\Users\hardc\OneDrive\Desktop\Perm\ Pub\pubcast_renderer_workspace\src\renderer.rs

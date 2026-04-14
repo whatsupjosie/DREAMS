@@ -1,0 +1,13 @@
+[package]
+name = "pubcast-renderer"
+version = "0.5.0"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib", "rlib"]
+
+[dependencies]
+wgpu = "0.19"
+winit = "0.29"
+tokio = { version = "1.0", features = ["full"] }
+raw-window-handle = "0.6"
